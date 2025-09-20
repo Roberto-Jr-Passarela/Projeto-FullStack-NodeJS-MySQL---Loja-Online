@@ -1,0 +1,24 @@
+{
+  "name": "mysql-end-node.js",
+  "version": "1.0.0",
+  "description": "Project MySQL end NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "express-handlebars",
+    "bootstrap",
+    "mysql"
+  ],
+  "author": "Roberto Júnior Passarela Da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "express": "^5.1.0",
+    "express-fileupload": "^1.5.2",
+    "express-handlebars": "^8.0.3",
+    "mysql2": "^3.15.0"
+  }
+}
